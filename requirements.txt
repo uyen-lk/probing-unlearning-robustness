@@ -1,0 +1,10 @@
+torch>=2.2
+transformers>=4.44
+huggingface-hub>=0.24
+pandas>=2.2
+tqdm>=4.66
+accelerate==0.34.2
+rouge-score
+sentence-transformers
+bert-score
+nlkt
