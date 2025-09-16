@@ -7,6 +7,8 @@
 conda create -n probe-unlearn python=3.11
 conda activate probe-unlearn
 pip install -r requirements.txt
+
+mkdir logs
 ```
 
 ## 💻 Black-box Attacks
