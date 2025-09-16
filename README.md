@@ -34,7 +34,7 @@ python attackers/DAN.py --input data/dataset.csv --output output/DAN_prompts.csv
 
 ## 🚀 Orchestrate Black-box Attacks 
 
-![Black-box attack prompt templates](probing-unlearning-robustness/assets/attack_prompt.png)
+![Black-box attack prompt templates](assets/prompt_template.png)
 
 
 Use src/orchestrate_attackers.py to run multiple attack generators and merge results into one CSV. Individual attacker outputs are also saved in a separate folder.
